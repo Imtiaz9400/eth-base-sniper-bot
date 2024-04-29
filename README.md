@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Szh8RoC.png" width="200"/>
+  <img src="https://i.imgur.com/Szh8RoC.png" width="200"/><br>
  
   <h2>Base Sniper</h2>
   <p>The fastest BASE CHAIN sniper bot. Snipe New Tokens on BASE and all ETH Dexes within 1 millisecond</p>
